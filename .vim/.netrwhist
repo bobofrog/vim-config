@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/etc'
+let g:netrw_dirhist_2='/Users/jianboz/Projects/learnGit/.git'
+let g:netrw_dirhist_3='/Users/jianboz/GitHub/study-note/.git'
+let g:netrw_dirhist_4='/Users/jianboz/.vim/bundle/ctrlsf.vim'
